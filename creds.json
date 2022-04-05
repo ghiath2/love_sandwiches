@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dotted-music-346314",
+  "private_key_id": "6d99f5e94918fd9e04301af96a05cb3f42c028f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPhn+3yO8s9BK+\n1E2gFbDHnDJOOEbC7/9np53SampFf0ibnIX6AuT/GoYgLMGVup1TVrA+5AKhB+pA\nwSTu+IJBoipYNvdO3eDkaiiwsk2RuntevUBCgNjp3/ygLvLbEQX/MBSrHC+/sPvM\nnTnZqNREy9w81ZCUx/pJfGPryDvSBFe+ybEcTiAVJFhva1uHsLJbOnQWF5hX4eZi\nTBxH32lqtH3cPCeuF77CbkFIimlokWd+Q/jYLyOPVRwb9clK9aTosWc3JXYgs0Tx\n6iFmwLV9e6062wrk7ioXuptgUfEk+smU1Upvc2wFhdVFQZN2Fa6aO7v23NVKE6Tz\n2mxxiuRvAgMBAAECggEARpMahmLVyUMTXKbErO09iknyKqhdk0m0S2IOpwMQ0q+u\nImarMq7tr8t5HKUlY9zps6sy6xnveQONWt4erSuh0WhObiZJIYzVIzxYWdqzbe9G\n7uUcjhcRkp9Dd/jeDn6mdj9MSn+Hszjx+EFvyunLxzB/UaKqf55+Ilh6QdyqHbCs\nYW2AXJCkRWq2OHh+I9GFwFKi6Z7Pgxm7bEKnSlr89HFe5Yae1pNO5Iag7U8qLv43\ncHnAojI460fnTtIudqlZP1KrW8t0KFRkc21V40RG218SHgIx4p/ufIPyxMNMuRJa\nP1COmY59VCFWDxpOVoClo5m41MsHg/jQJQyUDXeqgQKBgQDF20n5jaZ66da4T50S\nF4HVIu3kVdHVmdX/r5xMRrAIP29nk7esFMAgez3lp6kuVIW/0qMECQK4woE+enAq\ncbrX44TxvFkkUtxDPsZryZN+7YgSCmfbIjElCHBeCQhZjxuJrhSZwa5Anb0cDiSc\nOuFvjYF0RkEQ0dB3f6RxRY5YzwKBgQC5s+JVj5GBwTp/3NVFzCTwDFWfpxexaNST\nYemhuzqaEVah5efjzCqIbwX9UamclJcpiCA9j1Rdunh9iSuGyalA5oLJqlgFcvUT\ndrhMKXLZLTm1C8dIEACMyRwz1ZxbEN3nkWGWJTCoyXT6OYJhyMW6zDpxhLIabkAg\nTMmaDKRiYQKBgAtkBY09b3EyFy+DPdq1yb64hROZMTxn398ZgBkQFMBUzpga8/8P\nLsRv8+9NyLqnGRAjE0l/L03tvL0ZFW4MICKfsZ6tJkCmGJIygf/gmgI7sJLBUJtY\nC5ZDNxzizj1BtOcnQ35anSqRKjr8QXVRGntunR5RkRtjyOmoSpJO29QXAoGBAKMi\n4NFzV0ta2a5b7MvtRAHRhCLF4m2K/zweRuU6moegda+yTd1zjWXfyq44YD1a19S3\nbkNGN8JDPvhhWWiGnfaSyhCpYbwfuiaII+1ceDVLoqdmmoG29RS409rBbCMgFSEK\nOWVydGXC3M25Wc3XV8T7BtiUzvWjJxh4/J4lPv/hAoGAVWF7QdFRB/9xT+pY6AVh\nyU6r1YI9dKjOgaeh32Rr8co4gis/P7/uihKV/gr8icH0hQjQZwMR/0L/JDMgFK/K\n5INPNvN0bmWFpPFgOtWexJwYeiqM2UDbW3bHz7ilanj8N/TRJA8krXrlufFG0N48\nUEBir2+vXbL9h5TCxJ8hWSo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ghiath@dotted-music-346314.iam.gserviceaccount.com",
+  "client_id": "114346040208119998435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ghiath%40dotted-music-346314.iam.gserviceaccount.com"
+}
